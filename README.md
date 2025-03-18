@@ -12,4 +12,4 @@ I will also document my installation process of Ubuntu Linux.
 
 ## Ubuntu Linux Install
 * I chose to install the 32-bit version of Ubuntu 16.04.7 LTS.
-* 
+* Installed the new virtual machine through VMWare Workstation and set to desired settings.
