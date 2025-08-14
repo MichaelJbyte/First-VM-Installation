@@ -10,6 +10,8 @@ I will also document my installation process of Ubuntu Linux.
 * Created a Broadcom account and downloaded the latest version of VMWare Workstation Pro.
 * Configured Workstation Pro with the install wizard.
 
+![image alt](https://github.com/MichaelJbyte/First-VM-Installation/blob/b4188e03665bea26284129e8b685384092510349/VM-Install%20001.png)
+
 ## Ubuntu Linux Install
 * I chose to install the 64-bit version of Ubuntu 16.04.7 LTS.
 * Installed the new virtual machine through VMWare Workstation and set to desired settings.
