@@ -1,4 +1,4 @@
-# First VM Set-Up
+# First VM Set-Up (IN-PROGRESS)
 
 This will serve as documentation for my first installation of a hypervisor (VMWare Workstation Pro).
 I will also document my installation process of Ubuntu Linux. 
@@ -11,5 +11,5 @@ I will also document my installation process of Ubuntu Linux.
 * Configured Workstation Pro with the install wizard.
 
 ## Ubuntu Linux Install
-* I chose to install the 32-bit version of Ubuntu 16.04.7 LTS.
+* I chose to install the 64-bit version of Ubuntu 16.04.7 LTS.
 * Installed the new virtual machine through VMWare Workstation and set to desired settings.
