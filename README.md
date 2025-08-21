@@ -1,17 +1,23 @@
-# First VM Set-Up (IN-PROGRESS)
+# First VM Set-Up (Ubuntu Linux)
 
 This will serve as documentation for my first installation of a hypervisor (VMWare Workstation Pro).
-I will also document my installation process of Ubuntu Linux. 
+I will also document the setup process of Ubuntu Linux. 
 
-- It is worth noting this is not my first time installing and setting up a VM. Simply my first time for a home lab.
-
-## Virtual Machine Install
+## Hypervisor Install
 
 * Created a Broadcom account and downloaded the latest version of VMWare Workstation Pro.
-* Configured Workstation Pro with the install wizard.
-
-![image alt](https://github.com/MichaelJbyte/First-VM-Installation/blob/b4188e03665bea26284129e8b685384092510349/VM-Install%20001.png)
+* Configured Workstation Pro 17 with the install wizard.
 
 ## Ubuntu Linux Install
-* I chose to install the 64-bit version of Ubuntu 16.04.7 LTS.
-* Installed the new virtual machine through VMWare Workstation and set to desired settings.
+
+* I chose to install the 64-bit version of Ubuntu 25.04.
+* Opened up the virtual machine through VMware using the ISO file.
+
+![photo1](https://github.com/MichaelJbyte/First-VM-Installation/blob/9aec5c29cda7eb4940847d6b4e6cfc7cbef5227c/Opened%20Up%20Ubuntu.png)
+
+## Ubuntu Set-Up
+
+After installing, I launched Ubuntu, completing the operating system download. 
+- I also switched the virtual machine from booting off the ISO file to the physical drive.
+
+![photo2](https://github.com/MichaelJbyte/First-VM-Installation/blob/9aec5c29cda7eb4940847d6b4e6cfc7cbef5227c/Setting%20Up%20Ubuntu.png)
