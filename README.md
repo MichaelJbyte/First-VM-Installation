@@ -1,6 +1,6 @@
 # First VM Set-Up (Ubuntu Linux)
 
-This will serve as documentation for my first installation of a hypervisor (VMWare Workstation Pro).
+This will serve as documentation for my first installation of a hypervisor (VMWare Workstation Pro). 8/20/25
 
 I will also document the setup process of Ubuntu Linux through a virtual machine. 
 
